@@ -52,4 +52,6 @@
       </ResolvedFileToPublish>
     </ItemGroup>
   </Target>
+
+  <ProjectExtensions><VisualStudio><UserProperties clientapp_4public_4_1well-known_4assetlinks_1json__JsonSchema="[" /></VisualStudio></ProjectExtensions>
 </Project>
